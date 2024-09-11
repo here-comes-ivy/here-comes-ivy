@@ -2,15 +2,28 @@
 here-comes-ivy/here-comes-ivy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Hi there 👋, this is Ivy</h1>
-<h3>A passionate coding bootcamp student from Taiwan</h3>
 
-- 🌱 I’m currently learning **data analysis with Python, mobile app development with Flutter, web design with HTML/CSS, and data management with SQL**
+# Hi there, this is Ivy! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tzu-yun-hsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tzu-yun-hsu" height="30" width="40" /></a>
-</p>
+I'm a tech enthusiast with a background in e-commerce, currently transitioning into software development. With 5+ years of experience in customer support, content management, and business development, I'm now diving deep into the world of coding and data analysis.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 Quick Facts
+
+- 🌱 Currently enrolled in a 6-month AIoT Bootcamp
+- 💻 Learning Python, Flutter, HTML/CSS, cloud services (AWS, Firebase), Git, Linux command line, and AI application integration
+- 📊 Experienced with Tableau, Salesforce dashboards, and SQL
+- 🛠️ Skilled in customer success, process optimization, as well as data analysis and visualization
+- 🌍 Fluent in English and Mandarin
+
+## 🔭 Current Projects
+
+- Developing e-commerce mobile apps with Flutter and Firebase
+- Creating interactive personal websites using JavaScript, HTML, and CSS
+
+## 📫 Let's Connect!
+
+- Email: ivyhsu0919@gmail.com
+- Linkedin: [Link](https://www.linkedin.com/in/tzu-yun-hsu/)
+
+
+Always eager to learn and collaborate on exciting projects. Let's build something amazing together!
