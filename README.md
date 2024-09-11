@@ -12,7 +12,8 @@ I'm a tech enthusiast with a background in e-commerce, currently transitioning i
 - 🌱 Currently enrolled in a 6-month AIoT Bootcamp
 - 💻 Learning Python, Flutter, HTML/CSS, cloud services (AWS, Firebase), Git, Linux command line, and AI application integration
 - 📊 Experienced with Tableau, Salesforce dashboards, and SQL
-- 🛠️ Skilled in customer success, process optimization, as well as data analysis and visualization
+- 🛠️ Skilled in project management, process optimization, and data analysis and visualization
+- 🤝 Strong background in customer success, operations and business development
 - 🌍 Fluent in English and Mandarin
 
 ## 🔭 Current Projects
