@@ -1,30 +1,20 @@
-<!---
-here-comes-ivy/here-comes-ivy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 # Hi there, this is Ivy! 👋
 
-I'm a tech enthusiast with a background in e-commerce, currently transitioning into software development. With 5+ years of experience in customer support, content management, and business development, I'm now diving deep into the world of coding and data analysis.
+I'm a data-driven professional with 5+ years of experience in customer support, business development, and process optimization, now expanding into technical analysis and product operations. I leverage my strong analytical mindset and customer-centric approach to bridge the gap between technical solutions and business outcomes.
 
-## 🚀 Quick Facts
+## 🚀 Core Competencies
+- 📊 **Data Analysis & Visualization**: Proficient in Tableau, SQL, and Salesforce dashboards with hands-on experience in business intelligence
+- 💻 **Technical Skills**: Web development (HTML/CSS, JavaScript, React), mobile development (Flutter), Python for data analysis, AWS cloud services
+- 🎯 **Product Support Excellence**: 5+ years optimizing customer experiences, troubleshooting complex issues, and translating user feedback into actionable insights
+- 🛠️ **Process Optimization**: Proven track record in project management, workflow improvement, and cross-functional collaboration
+- 🤝 **Stakeholder Communication**: Fluent in English and Mandarin, experienced in presenting technical concepts to diverse audiences
 
-- 🌱 Currently enrolled in a 6-month AIoT Bootcamp
-- 💻 Learning Python, Flutter, HTML/CSS, cloud services (AWS, Firebase), Git, Linux command line, and AI application integration
-- 📊 Experienced with Tableau, Salesforce dashboards, and SQL
-- 🛠️ Skilled in project management, process optimization, and data analysis and visualization
-- 🤝 Strong background in customer success, operations and business development
-- 🌍 Fluent in English and Mandarin
+## 🔭 Current Focus
+- **Building comprehensive metric dashboards** to enhance process transparency and track product performance KPIs across customer satisfaction, feature adoption, and operational efficiency
+- **Developing workflow automation tools** to streamline cross-functional processes, improve stakeholder communication, and reduce manual overhead in product operations
+- **Creating user-centric applications** leveraging data-driven consumer insights and behavioral analytics to optimize user experience and drive product-market fit
 
-## 🔭 Current Projects
-
-- Developing e-commerce mobile apps with Flutter and Firebase
-- Creating interactive personal websites using JavaScript, HTML, and CSS
-
-## 📫 Let's Connect!
-
+## 📫 Let's build something amazing together!
 - Email: ivyhsu0919@gmail.com
 - Linkedin: [Link](https://www.linkedin.com/in/tzu-yun-hsu/)
-
-
-Always eager to learn and collaborate on exciting projects. Let's build something amazing together!
