@@ -5,7 +5,7 @@ I'm a data-driven professional with 5+ years of experience in customer support, 
 
 ## 🚀 Core Competencies
 - 📊 **Data Analysis & Visualization**: Proficient in Tableau, SQL, and Salesforce dashboards with hands-on experience in business intelligence
-- 💻 **Technical Skills**: Web development (HTML/CSS, JavaScript, React), mobile development (Flutter), Python for data analysis, AWS cloud services
+- 💻 **Technical Skills**: Web development (HTML/CSS, JavaScript, React), mobile development (Flutter), Python for data analysis, Google cloud services
 - 🎯 **Product Support Excellence**: 5+ years optimizing customer experiences, troubleshooting complex issues, and translating user feedback into actionable insights
 - 🛠️ **Process Optimization**: Proven track record in project management, workflow improvement, and cross-functional collaboration
 - 🤝 **Stakeholder Communication**: Fluent in English and Mandarin, experienced in presenting technical concepts to diverse audiences
